@@ -1,2 +1,2 @@
 # molbiotools
-Miscellaneous molecular biology tools
+Miscellaneous molecular biology tools.
